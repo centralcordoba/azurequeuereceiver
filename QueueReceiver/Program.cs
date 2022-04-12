@@ -39,11 +39,7 @@ namespace QueueReceiver
 
         static async Task Main()
         {
-            // The Service Bus client types are safe to cache and use as a singleton for the lifetime
-            // of the application, which is best practice when messages are being published or read
-            // regularly.
-            //
-
+          
             // Create the client object that will be used to create sender and receiver objects
             client = new ServiceBusClient(connectionString);
 
@@ -71,8 +67,7 @@ namespace QueueReceiver
             }
             finally
             {
-                // Calling DisposeAsync on client types is required to ensure that network
-                // resources and other unmanaged objects are properly cleaned up.
+               
                 await processor.DisposeAsync();
                 await client.DisposeAsync();
             }

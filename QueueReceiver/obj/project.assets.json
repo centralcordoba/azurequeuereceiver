@@ -444,11 +444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisemanuel.jimenez\\source\\repos\\ServiceBusQueueQuickStartTest\\QueueReceiver\\QueueReceiver.csproj",
+      "projectUniqueName": "C:\\3trabajo\\azurequeuereceiver\\QueueReceiver\\QueueReceiver.csproj",
       "projectName": "QueueReceiver",
-      "projectPath": "C:\\Users\\luisemanuel.jimenez\\source\\repos\\ServiceBusQueueQuickStartTest\\QueueReceiver\\QueueReceiver.csproj",
+      "projectPath": "C:\\3trabajo\\azurequeuereceiver\\QueueReceiver\\QueueReceiver.csproj",
       "packagesPath": "C:\\Users\\luisemanuel.jimenez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisemanuel.jimenez\\source\\repos\\ServiceBusQueueQuickStartTest\\QueueReceiver\\obj\\",
+      "outputPath": "C:\\3trabajo\\azurequeuereceiver\\QueueReceiver\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
