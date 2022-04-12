@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = QueueReceiver
+build_property.ProjectDir = C:\Users\luisemanuel.jimenez\source\repos\ServiceBusQueueQuickStartTest\QueueReceiver\
